@@ -1,6 +1,6 @@
 {
-  "name": "ymap3-components",
-  "version": "1.2.3",
+  "name": "@trifearg/ymap3-components",
+  "version": "1.2.4",
   "description": "React yamps3 wrapper. Get ymaps3 components via import.",
   "main": "dist/index.umd.js",
   "module": "dist/index.mjs",
@@ -24,13 +24,13 @@
     "ymaps3-components",
     "yandex-map"
   ],
-  "author": "https://github.com/fede4ka1245",
+  "author": "https://github.com/trifearg",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fede4ka1245/ymap3-components.git"
+    "url": "git+https://github.com/trifearg/ymap3-components.git"
   },
   "bugs": {
-    "url": "https://github.com/fede4ka1245/ymap3-components.git/issues"
+    "url": "https://github.com/trifearg/ymap3-components.git/issues"
   },
   "license": "ISC",
   "devDependencies": {
@@ -48,6 +48,6 @@
     "react-dom": "^18.2.0 || ^19.0.0"
   },
   "publishConfig": {
-    "@fede4ka1245:registry": "https://npm.pkg.github.com"
+    "@trifearg:registry": "https://npm.pkg.github.com"
   }
 }

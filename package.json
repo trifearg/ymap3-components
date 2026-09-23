@@ -1,5 +1,5 @@
 {
-  "name": "ymap3-components",
+  "name": "@trifearg/ymap3-components",
   "version": "1.2.4",
   "description": "React yamps3 wrapper. Get ymaps3 components via import.",
   "main": "dist/index.umd.js",
